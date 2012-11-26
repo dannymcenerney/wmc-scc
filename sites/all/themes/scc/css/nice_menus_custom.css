@@ -1,0 +1,119 @@
+/******************************
+ Global CSS for ALL menu types
+******************************/
+
+ul.nice-menu,
+ul.nice-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.nice-menu li {
+  border-top: 0;
+  float: right; /* LTR */
+  font-size: 1.1em;
+}
+
+ul.nice-menu a {
+  padding: 0.3em 5px 0.3em 5px;
+  color: #fff;
+  text-decoration: none;
+}
+
+ul.nice-menu a:hover {
+	color: #CCCCCC;
+}
+
+ul.nice-menu a.active {
+	color: #CCCCCC;
+}
+
+ul.nice-menu ul {
+  top: 1.8em;
+  left: -1px; /* LTR */
+  border: 0;
+  margin-right: 0; /* LTR */
+}
+
+ul.nice-menu ul li {
+  width: 11.5em;
+}
+
+/******************************
+ VERTICAL (left/right) menus
+******************************/
+
+/* This is the default width of all vertical menus. */
+ul.nice-menu-right, ul.nice-menu-left,
+ul.nice-menu-right li, ul.nice-menu-left li {
+  text-align: right;
+  width: 150px;
+}
+
+
+
+/* VERTICAL menus where submenus pop RIGHT (default). */
+ul.nice-menu-right ul {
+  top: -1px;
+  line-height: 1.3em;
+}
+
+/****TOP*/
+.region-menu-top ul.nice-menu-right {
+	font-weight: bold;
+}
+/****BOTTOM*/
+.region-menu-bottom ul.nice-menu-right {
+	font-size: .85em;
+	
+}
+
+ul.nice-menu-right ul ul {
+  width: 9.9em;
+  left: 9.9em;
+  top: -1px;
+}
+
+ul.nice-menu-right li.menuparent,
+ul.nice-menu-right li li.menuparent {
+}
+
+ul.nice-menu-right li.menuparent:hover,
+ul.nice-menu-right li li.menuparent:hover {
+}
+
+
+
+/******************************
+ Garland-specific CSS
+******************************/
+
+/**
+ * Global CSS for ALL menu types
+ */
+ul.nice-menu li {
+  margin: 0;
+  padding-left: 0; /* LTR */
+  background-image: none;
+}
+
+#header-region ul.nice-menu li {
+  margin: 0;
+  /* Padding rules are needed to deal with Garland's header line-height. */
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+  background: #eee;
+}
+
+#header-region ul.nice-menu ul {
+  top: 1.8em;
+  left: -1px; /* LTR */
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin-right: 0; /* LTR */
+}
+
+#header-region ul.nice-menu ul {
+  top: 1.7em;
+}

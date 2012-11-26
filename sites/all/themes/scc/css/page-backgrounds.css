@@ -1,0 +1,48 @@
+/**
+ * @file
+ * Background colors for the website.
+ */
+ 
+body {
+	background: #000;
+}
+ 
+#page {
+	background: url(../images/page-bg.jpg) top left no-repeat ;
+}
+ 
+#banners {
+	border-width: 0px 0px 0px 1px;
+	border-color: #fff;
+	border-style: solid;
+}
+ 
+.content-wrap {
+	background: #FFF;
+	border-width: 1px 1px 0px 0px;
+	border-color: #fff;
+	border-style: solid;
+}
+ 
+.region-menu-top {
+	background: url(../images/sidebar-first-top-bg.jpg) repeat-y;
+}
+ 
+.region-sidebar-first-bottom {
+	background: #000;
+}
+
+.region-menu-top {
+	border-bottom: 4px solid #FFF;
+}
+
+#home-bottom-regions {
+	background: url(../images/footer-home-bottom-bg.png) repeat-y #484848;
+	border-width: 0 1px 1px 0;
+	border-style: solid;
+	border-color: #FFF;
+}
+ 
+#home-bottom-regions .region-home-bottom-right {
+	background: #333333;
+}

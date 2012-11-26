@@ -1,0 +1,212 @@
+/**
+ * @file
+ * Positioning for a fixed-width, desktop-centric layout.
+ *
+ * Define CSS classes to create a table-free, 3-column, 2-column, or single
+ * column layout depending on whether blocks are enabled in the left or right
+ * columns.
+ *
+ * This layout uses the Zen Grids plugin for Compass: http://zengrids.com
+ */
+
+
+/*
+ * Center the page.
+ */
+
+#page,
+.region-bottom {
+  /* If you want to make the page a fixed width and centered in the viewport,
+   * this is the standards-compliant way to do that. */
+  margin-left: 0px;
+  width: 957px;
+}
+
+/*
+ * Apply the shared properties of grid items in a single, efficient ruleset.
+ */
+
+#header,
+#content,
+#navigation,
+.region-sidebar-first,
+.region-sidebar-second,
+#footer {
+/*  padding-left: 0px;
+  padding-right: 0px;*/
+  border: 0 !important;
+  word-wrap: break-word;
+  _display: inline;
+  _overflow: hidden;
+  _overflow-y: visible;
+}
+
+/*
+ * Containers for grid items and flow items.
+ */
+
+#header,
+#main,
+#footer {
+  *position: relative;
+  *zoom: 1;
+}
+#header:before, #header:after,
+#main:before, #main:after,
+#footer:before, #footer:after {
+  content: "";
+  display: table;
+}
+#header:after,
+#main:after,
+#footer:after {
+  clear: both;
+}
+
+
+#main {
+  /*padding-top: 3em;*/ /* Move all the children of #main down to make room. */
+  position: relative;
+  width: 798px;
+  margin-left: 159px;
+}
+
+.content-wrap {
+	overflow: hidden;
+	min-height: 400px;
+}
+
+/*
+ * Layout when there are now sidebars
+ */
+#content {
+	width: 734px;
+	padding: 8px 35px 10px 30px; 
+}
+
+
+/*
+ * The layout when there is only one sidebar, the left one.
+ */
+
+.sidebar-first #content {
+  float: left;
+  width: 484px;
+  margin-left: 158px;
+  margin-right: -957px;
+}
+
+.sidebar-first .region-sidebar-first {
+  float: left;
+  width: 158px;
+  margin-left: 0px;
+  margin-right: -196px;
+}
+
+/***********
+ * The layout when there is only one sidebar, the right one.
+ **********/
+
+.sidebar-second #content {
+  /* Span 4 columns, starting in 1st column from left. */
+  float: left;
+  width: 484px;
+  margin-left: 0px;
+  margin-right: -798px;
+  padding: 8px 35px 10px 30px;
+}
+
+.sidebar-second .region-sidebar-second {
+  float: left;
+  width: 222px;
+  margin-left: 547px;
+  margin-right: -927px;
+}
+
+/*
+ * The layout when there are two sidebars.
+ */
+
+.two-sidebars #content {
+  float: left;
+  width: 523px;
+  margin-left: 158px;
+  margin-right: -796px;
+}
+
+.two-sidebars .first-sidebars {
+  float: left;
+  width: 161px;
+  margin-left: 0px;
+  margin-right: -796px;
+  position:relative;
+  top:	-386px;
+  padding: 0px;
+}
+
+.two-sidebars .region-sidebar-second {
+  float: left;
+  width: 273px;
+  margin-left: 683px;
+  margin-right: -957px;
+}
+
+#banners {
+}
+ 
+/*HEADER Details*/
+#header #logo {
+	float: right;
+	width: 167px;
+}
+ 
+hgroup#name-and-slogan {
+	float: right;
+	width: 475px;
+	height: 89px;
+	background: url(../../images/tagline.png) right bottom no-repeat;
+	text-indent: -2000px;
+}
+
+/*LEFT COLUMN*/
+
+#left-column {
+	float: left;
+	width: 161px;	
+}
+
+.region-menu-top {
+	height: 144px;
+}
+
+.region-menu-top .block-nice-menus {
+	padding: 0px 0px 16px 0px;
+	margin: 0px;
+}
+
+.region-menu-bottom {
+	padding-top: 21px;
+}
+
+
+/*HOME BOTTOM REGIONS*/
+
+#home-bottom-regions {
+	width: 795px;
+	overflow: hidden;
+	clear:both;
+}
+
+#home-bottom-regions .region-home-bottom-left {
+	width: 264px;
+	float: left;
+}
+#home-bottom-regions .region-home-bottom-right {
+	width: 263px;
+	float: right;
+}
+#home-bottom-regions .region-home-bottom-middle {
+	width: 266px;
+	margin-left: 265px;
+	margin-right: 265px;
+}
