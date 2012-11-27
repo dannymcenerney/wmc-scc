@@ -1,5 +1,9 @@
 name = Top Left Menu
+<<<<<<< HEAD
 description = This is the top left menu of the website.
+=======
+description = The top left menu of the website.
+>>>>>>> 02354252aa159cdd0c684bfd3ad42290d018af92
 core = 7.x
 package = Features
 version = 7.x-1.0
