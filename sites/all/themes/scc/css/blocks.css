@@ -139,7 +139,16 @@ h2.block-title { /* Block title */
 	background: #484848;
 }
 
+/*FOOTER*/
+#boxes-box-footer_copyright a {
+	color: #999999;
+	font-weight: bold;
+	text-decoration: none;
+}
 
+#boxes-box-footer_copyright a:hover {
+	color: #EEEEEE;
+}
 
 
 

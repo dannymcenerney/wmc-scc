@@ -101,3 +101,59 @@ li a.active {
 
 .block-menu-block {
 }
+
+/*TOP LEFT MENU*/
+.menu-name-menu-top-left-menu {
+	padding-top: 30px;
+}
+
+.menu-name-menu-top-left-menu ul.menu li {
+	list-style-image: none;
+	list-style-type: none;
+	font-size: 1.1em;
+	font-weight: bold;
+	line-height: 1.8em;
+	text-align: right;
+	padding-right: 16px;
+}
+
+.menu-name-menu-top-left-menu a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.menu-name-menu-top-left-menu a:hover {
+	color: #F8B829;
+}
+
+.menu-name-menu-top-left-menu a.active {
+	color: #F8B829;
+}
+
+/*BOTTOM LEFT MENU*/
+.region-menu-bottom  ul.menu {
+	padding: 0px;
+	margin: 0px;
+}
+.region-menu-bottom  ul.menu li {
+	list-style-image: none;
+	list-style-type: none;
+	font-size: .95em;
+	text-align: right;
+	padding-right: 16px;
+	line-height: 1.6em;
+}
+
+.region-menu-bottom  ul.menu li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.region-menu-bottom  ul.menu li a:hover {
+	color: #DDDDDD;
+}
+
+.region-menu-bottom  ul.menu li a.active {
+	font-style: italic;
+}
+
