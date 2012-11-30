@@ -1,0 +1,11 @@
+name = Homepage Slideshow View
+description = This is the slideshow view and display
+core = 7.x
+package = views
+version = 7.x-1.0
+project = homepage_slideshow_view
+dependencies[] = ctools
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+features[views_view][] = slideshow
