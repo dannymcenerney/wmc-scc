@@ -58,19 +58,19 @@
 
 /*HOMEPAGE SLIDESHOW*/
 
-#banners #block-views-homepage-slideshow-block .views-slideshow-controls-bottom {
+#banners #block-views-slideshow-block .views-slideshow-controls-bottom {
 	position: relative;
 	top: -35px;
 	right: 20px;
 	z-index: 5;
 }
 
-#banners #block-views-homepage-slideshow-block .views-slideshow-controls-bottom .views-content-field-image {
+#banners #block-views-slideshow-block .views-slideshow-controls-bottom .views-content-field-image {
 	float: right;
 	margin-right: 3px;
 }
 
-#banners #block-views-homepage-slideshow-block .views-slideshow-controls-bottom .views-content-field-image img {
+#banners #block-views-slideshow-block .views-slideshow-controls-bottom .views-content-field-image img {
 	width: 15px;
 	height: 15px;
 	border: 1px solid #FFF;
