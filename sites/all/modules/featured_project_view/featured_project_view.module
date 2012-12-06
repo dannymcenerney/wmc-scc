@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Featured Project View feature.
+ */
+
+include_once 'featured_project_view.features.inc';
