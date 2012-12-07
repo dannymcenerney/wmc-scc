@@ -75,3 +75,26 @@
 	height: 15px;
 	border: 1px solid #FFF;
 }
+
+/*SIMPLE PROJECTS*/
+
+.view-projects ul.simple-project {
+	display: inline;
+}
+
+
+.view-projects ul.simple-project li {
+	display: inline;
+	padding: 15px;
+	background: #0CC;
+}
+
+.view-projects .simple-project-thumb {
+	width: 145px;
+	border: 1px solid #999999;
+	line-height: 0px;
+}
+
+
+
+
