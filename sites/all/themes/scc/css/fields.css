@@ -101,3 +101,29 @@
 
 .field-name-field-FIELDNAME { /* Underscores in field name are replaced with dashes. */
 }
+
+/*Gallery Content Type*/
+
+h2.field-name-field-gallery-title {
+	color: #444444;
+}
+
+ul.field-name-field-image-gallery {
+	margin: 0px 0px 15px 0px;
+	padding: 0px;
+	list-style-image: none;
+	list-style-type: none;
+}
+
+ul.field-name-field-image-gallery li {
+	display: inline;
+	width: 145px;
+	margin-right: 15px;
+}
+
+ul.field-name-field-image-gallery li img {
+	width: 145px;
+	border: 1px solid #999999;
+}
+
+
