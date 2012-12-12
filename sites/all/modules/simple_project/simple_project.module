@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Simple Project feature.
- */
-
-include_once 'simple_project.features.inc';
