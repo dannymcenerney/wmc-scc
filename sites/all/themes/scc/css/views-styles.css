@@ -76,23 +76,30 @@
 	border: 1px solid #FFF;
 }
 
-/*SIMPLE PROJECTS*/
+/*HOMEPAGE BLOG LIST*/
 
-.view-projects ul.simple-project {
-	display: inline;
+.region-home-bottom-left .view-blog .views-row {
+  padding-left: 11px;
+  border-bottom: 1px solid #333333;
+  overflow: hidden;
 }
 
-
-.view-projects ul.simple-project li {
-	display: inline;
-	padding: 15px;
-	background: #0CC;
+.region-home-bottom-left .view-blog a {
+  color: #FFF;
 }
 
-.view-projects .simple-project-thumb {
-	width: 145px;
-	border: 1px solid #999999;
-	line-height: 0px;
+.region-home-bottom-left .view-blog a:hover {
+  color: #D2E1F0;
+}
+
+.region-home-bottom-left .view-blog .thumb img {
+  float: left;
+  width: 34px;
+}
+
+.region-home-bottom-left .view-blog .summary p {
+  font-size: .9em;
+  margin: 9px 20px 0px 44px;
 }
 
 

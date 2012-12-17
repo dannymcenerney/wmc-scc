@@ -217,6 +217,7 @@ body {
 
 a:link {
 	color: #990000;
+  text-decoration: none;
 }
 
 a:visited {
