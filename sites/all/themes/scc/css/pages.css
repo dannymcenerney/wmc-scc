@@ -96,6 +96,16 @@ body {
 #content {
 }
 
+#main #content h1.title {
+  color: #FFF;
+  font-size: 1.5em;
+  font-weight: normal;
+  margin-top: 22px;
+}
+
+#main #content article {
+  margin-top: 45px;
+}
 
 .region-highlighted {
 }

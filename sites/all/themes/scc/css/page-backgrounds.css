@@ -46,3 +46,11 @@ body {
 #home-bottom-regions .region-home-bottom-right {
 	background: #333333;
 }
+
+#main #content {
+	background: url(../images/content-top-bg.png) repeat-x;
+}
+
+.front #main #content {
+	background: none;
+}
