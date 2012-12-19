@@ -62,18 +62,20 @@
 	position: relative;
 	top: -35px;
 	right: 20px;
-	z-index: 10;
+  z-index:  20;
 }
 
 #banners #block-views-slideshow-block .views-slideshow-controls-bottom .views-content-field-image {
-	float: right;
-	margin-right: 3px;
+  float: right;
+  margin-right: 4px;
+  width: 10px;
+  height: 13px;
+  border: 1px solid #FFF;
+  background: url(../images/transparent-bg-white-50.png);
 }
 
 #banners #block-views-slideshow-block .views-slideshow-controls-bottom .views-content-field-image img {
-	width: 15px;
-	height: 15px;
-	border: 1px solid #FFF;
+	display: none;
 }
 
 /*HOMEPAGE BLOG LIST*/
