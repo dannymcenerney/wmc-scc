@@ -62,7 +62,7 @@
 	position: relative;
 	top: -35px;
 	right: 20px;
-	z-index: 5;
+	z-index: 10;
 }
 
 #banners #block-views-slideshow-block .views-slideshow-controls-bottom .views-content-field-image {

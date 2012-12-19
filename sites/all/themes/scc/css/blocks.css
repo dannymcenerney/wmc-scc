@@ -140,6 +140,10 @@ h2.block-title { /* Block title */
 	background: #484848;
 }
 
+.region-home-bottom-right {
+	font-size: .9em;
+}
+
 .region-home-bottom-right a {
 	color: #D2E1F0;
 	text-decoration: none;
