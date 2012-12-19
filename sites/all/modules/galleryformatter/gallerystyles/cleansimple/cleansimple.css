@@ -1,6 +1,7 @@
 .galleryformatter-cleansimple { 
   padding-top: 40px;
   background: url(images/gallery-title.png) no-repeat;
+  clear: both;
 }
 
 .galleryformatter-cleansimple .gallery-thumbs { padding: 0 25px; }
