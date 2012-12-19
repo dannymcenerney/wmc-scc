@@ -104,6 +104,35 @@
   margin: 9px 20px 0px 44px;
 }
 
+/*FULL PAGE BLOG LIST*/
 
+.view-blog-page {
+  margin-top: 39px; 
+}
 
+.view-blog-page .views-row {
+  clear: both;
+  overflow: hidden; 
+  margin-bottom: 25px;
+  padding-bottom: 18px;
+  border-bottom: 1px dotted #ccc;
+}
 
+.view-blog-page .medium-image {
+  float: right;
+  margin: 0 0 10px 15px 
+}
+
+.view-blog-page h2.blog-title {
+  font-size: 2.2em;
+  margin-bottom: 16px;
+}
+
+.view-blog-page h2.blog-title a:hover {
+  color:#85A4BA;
+}
+
+.view-blog-page .submitted {
+  font-style: italic;
+  font-size: .9em;
+}
