@@ -132,3 +132,9 @@ ul.field-name-field-image-gallery {
   border: 1px solid #999999;
   max-height: 95px; 
 }
+
+/* WEBFORM */
+
+.webform-confirmation, .webform-results-per-page {
+  margin-top: 43px;
+}
