@@ -76,6 +76,10 @@
 	min-height: 400px;
 }
 
+.content-wrap-inner {
+  overflow: hidden;
+}
+
 /*
  * Layout when there are now sidebars
  */
@@ -121,8 +125,8 @@
   width: 222px;
   margin-left: 547px;
   margin-right: -927px;
-  margin-top: 42px;
 }
+
 
 /*
  * The layout when there are two sidebars.

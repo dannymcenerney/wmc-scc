@@ -146,7 +146,7 @@
               </aside><!-- /.sidebars -->
           <?php endif; ?>
     
-		  
+		  </div><!-- /.content-wrap-inner -->
 
     </div><!-- /content-wrap -->
     

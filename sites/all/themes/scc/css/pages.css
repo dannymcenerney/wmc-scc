@@ -227,6 +227,14 @@ span.field-label { /* The inline field label used by the Fences module */
 .region-sidebar-second {
 }
 
+/*Fix top margin for interior pages with a second sidebar*/
+.content-wrap-inner .region-sidebar-second {
+  margin-top: 102px;
+  background: url(../images/second-sidebar-bg-border.png) left repeat-y;
+  padding: 4px 0px 45px 15px;
+}
+
+
 /*
  * Footer
  */
