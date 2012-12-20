@@ -77,6 +77,12 @@ font-size: .9em;
   position: relative; /* Otherwise these elements will appear below the "Unpublished" text. */
 }
 
+/*PAGE Content*/
+.node-page ul li {
+  margin-bottom: 3px;
+}
+
+
 /* Custom Content Nodes & Types */
 
 /* BLOG PAGES */
@@ -84,7 +90,7 @@ font-size: .9em;
   background: none;
 }
 
-.node-type-blog content-wrap-inner {
+.node-type-blog .content-wrap-inner {
   background: none;
 }
 
