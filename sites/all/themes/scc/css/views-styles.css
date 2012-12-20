@@ -136,3 +136,33 @@
   font-style: italic;
   font-size: .9em;
 }
+
+/*FINISHES*/
+
+.view-finishes .views-view-grid tr {
+  vertical-align: top;
+}
+
+.view-finishes .views-view-grid .col-1 {
+  width: 225px;
+}
+
+.view-finishes .views-view-grid .col-2 {
+  padding-left: 20px;
+}
+
+.view-finishes .views-view-grid img {
+  border: 1px solid #999999;
+}
+
+.view-finishes .views-view-grid p {
+  display: inline;
+}
+
+.view-finishes .views-view-grid p {
+  display: inline;
+}
+
+.views-field-body {
+  margin-bottom: 18px; 
+}
