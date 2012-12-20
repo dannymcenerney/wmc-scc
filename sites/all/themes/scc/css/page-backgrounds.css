@@ -23,6 +23,10 @@ body {
 	border-color: #fff;
 	border-style: solid;
 }
+
+.content-wrap-inner {
+	background: url(../images/content-top-bg.png) repeat-x;
+}
  
 .region-menu-top {
 	background: url(../images/sidebar-first-top-bg.jpg) repeat-y;
@@ -48,9 +52,4 @@ body {
 }
 
 #main #content {
-	background: url(../images/content-top-bg.png) repeat-x;
-}
-
-.front #main #content {
-	background: none;
 }

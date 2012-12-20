@@ -76,6 +76,10 @@
 	min-height: 400px;
 }
 
+.content-wrap-inner {
+  height: 60px;
+}
+
 /*
  * Layout when there are now sidebars
  */
@@ -121,6 +125,7 @@
   width: 222px;
   margin-left: 547px;
   margin-right: -927px;
+  margin-top: 42px;
 }
 
 /*
