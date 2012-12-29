@@ -124,3 +124,8 @@
   -khtml-opacity: 1;
   opacity: 1;
 }
+
+
+.galleryformatter-projects .gallery-slides {
+  height:395px;
+}
