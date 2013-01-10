@@ -83,7 +83,88 @@ font-size: .9em;
 }
 
 
-/* Custom Content Nodes & Types */
+/****************
+ * CUSTOM NODES & CONTENT TYPES *
+ ****************/
+
+ /*
+ * CONTENT TYPE = Project
+ */
+
+.node-type-project .region-sidebar-second /* Sidebar fix*/ {
+  margin-top: 525px; 
+}
+
+.node-type-project .field-name-field-location /* Location field*/ {
+  font-style: italic;
+  margin-top: 25px; 
+}
+
+.node-type-project h3.field-label /* Customer Testimonial*/ {
+  color: #547A96;
+  margin-top: 30px;
+  font-size: 1.3em;
+  font-weight: normal;
+  margin: 20px 0 15px 0;
+}
+
+.node-type-project .group_project_details h2 {
+  color: #547A96;
+  margin-top: 30px;
+}
+
+.node-type-project .group_project_details h3.field-label {
+  font-size: 1em;
+  margin-bottom: 5px;
+  color: #000;
+  margin-top: 0px;
+  font-weight: bold;
+}
+
+.node-type-project .field-name-field-customer-testimonial {
+  font-style: italic;
+  text-align: center;
+  padding: 0 12px;
+}
+
+.node-type-project .group_project_details ul /* Project Details*/ {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;  
+}
+
+.node-type-project .group-left-column, 
+.node-type-project .group-right-column,
+.node-type-project .group_right_column_bottom,
+.node-type-project .group_left_column_bottom {
+  border-left: 1px solid #CCCCCC;
+  padding: 3px 15px 15px 8px;
+  margin-bottom: 15px;
+}
+
+.node-type-project .group_left_column_bottom {
+  clear: both;
+}
+
+.node-type-project .group-left-column {
+  float: left;
+  width: 200px;
+}
+
+.node-type-project .group-right-column {
+  float: right;
+  width: 200px;
+}
+
+.node-type-project .group-left-column-bottom {
+  float: left;
+  width: 200px;
+}
+
+.node-type-project .group-right-column-bottom {
+  float: right;
+  width: 200px;
+}
 
 /* BLOG PAGES */
 .node-type-blog #main #content {
@@ -147,4 +228,18 @@ ul.field-name-field-image-gallery {
 
 .webform-confirmation, .webform-results-per-page {
   margin-top: 43px;
+}
+
+/*GALLERY FORMATTER MODULE OVERIDES*/
+
+body .gallery-thumbs {
+  display: none;
+}
+
+body .slide-button {
+  display: block;
+  height: 30px;
+  width: 10px;
+  color: #FFF;
+  background: #000;
 }
