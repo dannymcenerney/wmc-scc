@@ -241,9 +241,10 @@ span.field-label { /* The inline field label used by the Fences module */
 }
 
 /*second SIDEBAR*/
+/*Fix for Project pages
 .node-type-project .content-wrap-inner .region-sidebar-second {
-  margin-top: 470px; /*Fix for Project pages*/
-}
+  margin-top: 470px; 
+}*/
 
 .content-wrap-inner .region-sidebar-second h2.block-title {
   color: #999999;
