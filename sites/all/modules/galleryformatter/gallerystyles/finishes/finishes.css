@@ -1,35 +1,37 @@
-.galleryformatter-cleansimple { 
+.galleryformatter-finishes { 
   padding-top: 10px;
 }
 
-.galleryformatter-cleansimple .gallery-thumbs {display: none;}
-.galleryformatter-cleansimple .gallery-slides {
+.galleryformatter-finishes .gallery-thumbs {}
+.galleryformatter-finishes .gallery-slides {
   height: 285px;
 }
-.galleryformatter-cleansimple .gallery-slide { }
+.galleryformatter-finishes .gallery-slide { 
+border: 1px solid #CCC; 
+}
 
-.galleryformatter-cleansimple .gallery-thumbs .arrow,
-.galleryformatter-cleansimple .gallery-thumbs .wrapper,
-.galleryformatter-cleansimple .gallery-thumbs li.active a,
-.galleryformatter-cleansimple .gallery-thumbs li a:hover,
-.galleryformatter-cleansimple .view-full { background:url("images/sprite.png") no-repeat scroll 0 0 transparent; }
+.galleryformatter-finishes .gallery-thumbs .arrow,
+.galleryformatter-finishes .gallery-thumbs .wrapper,
+.galleryformatter-finishes .gallery-thumbs li.active a,
+.galleryformatter-finishes .gallery-thumbs li a:hover,
+.galleryformatter-finishes .view-full { background:url("images/sprite.png") no-repeat scroll 0 0 transparent; }
 
-.galleryformatter-cleansimple .gallery-slides .panel-overlay {
+.galleryformatter-finishes .gallery-slides .panel-overlay {
   position: absolute;
   bottom: 0.5em; left: 0;
   background: transparent url(images/bg-trans.png) repeat;
   width:100%;
   color: white;
 }
-.galleryformatter-cleansimple .gallery-slides .panel-overlay .overlay-inner { padding: 10px; }
-.galleryformatter-cleansimple .gallery-thumbs .wrapper {
+.galleryformatter-finishes .gallery-slides .panel-overlay .overlay-inner { padding: 10px; }
+.galleryformatter-finishes .gallery-thumbs .wrapper {
   overflow: auto;
   line-height:0;
   background-position: center -326px;
   background-repeat: repeat-x;
   border-bottom: 1px solid #EEEEEE;
 }
-.galleryformatter-cleansimple .view-full {
+.galleryformatter-finishes .view-full {
   background-position:center -205px;
   height:46px; width:46px;
   margin:10px;
@@ -37,33 +39,33 @@
   right:0; top:0;
   text-indent:-9999px;
 }
-.galleryformatter-cleansimple a:hover .view-full {
+.galleryformatter-finishes a:hover .view-full {
   background-position: center -252px;
 }
 
-.galleryformatter-cleansimple .gallery-thumbs ul { list-style: none; }
-.galleryformatter-cleansimple .gallery-thumbs li {
+.galleryformatter-finishes .gallery-thumbs ul { list-style: none; }
+.galleryformatter-finishes .gallery-thumbs li {
   float: left;
   background: transparent none;
   overflow:hidden;
   padding-top: 3px;
 }
-.galleryformatter-cleansimple .gallery-thumbs li a {
+.galleryformatter-finishes .gallery-thumbs li a {
   display: block;
   padding: 19px 0 7px;
 }
-.galleryformatter-cleansimple .gallery-thumbs li a:hover { background-position: center -307px; }
-.galleryformatter-cleansimple .gallery-thumbs li.active a { background-position: center -303px; }
+.galleryformatter-finishes .gallery-thumbs li a:hover { background-position: center -307px; }
+.galleryformatter-finishes .gallery-thumbs li.active a { background-position: center -303px; }
 
-.galleryformatter-cleansimple .gallery-thumbs li.active img,
-.galleryformatter-cleansimple .gallery-thumbs li a:hover img {
+.galleryformatter-finishes .gallery-thumbs li.active img,
+.galleryformatter-finishes .gallery-thumbs li a:hover img {
   filter:alpha(opacity=100);
   -ms-filter:”alpha(opacity=100)”;
   -moz-opacity:1;
   -khtml-opacity: 1;
   opacity: 1;
 }
-.galleryformatter-cleansimple .gallery-thumbs li img {
+.galleryformatter-finishes .gallery-thumbs li img {
   filter:alpha(opacity=60);
   -ms-filter:”alpha(opacity=60)”;
   -moz-opacity:0.6;
@@ -71,7 +73,7 @@
   opacity: 0.6;
 }
 
-.galleryformatter-cleansimple .gallery-thumbs .arrow {
+.galleryformatter-finishes .gallery-thumbs .arrow {
   bottom:0;
   display:block;
   height:46px;
@@ -80,21 +82,21 @@
   width:25px;
 }
 
-.galleryformatter-cleansimple .gallery-thumbs .forward {
+.galleryformatter-finishes .gallery-thumbs .forward {
   background-position: 2px 0;
   right: 0;
 }
 
-.galleryformatter-cleansimple .gallery-thumbs .back {
+.galleryformatter-finishes .gallery-thumbs .back {
   background-position: 3px -102px;
   left: 0;
 }
 
-.galleryformatter-cleansimple .gallery-thumbs .forward:hover { background-position: 2px -52px; }
+.galleryformatter-finishes .gallery-thumbs .forward:hover { background-position: 2px -52px; }
 
-.galleryformatter-cleansimple .gallery-thumbs .back:hover { background-position: 3px -156px; }
+.galleryformatter-finishes .gallery-thumbs .back:hover { background-position: 3px -156px; }
 
-.galleryformatter-cleansimple .slide-button {
+.galleryformatter-finishes .slide-button {
   background: transparent url(images/next-prev.png) no-repeat top left;
   height: 64px;
   width: 32px;
@@ -107,13 +109,13 @@
   opacity: 0.2;
 }
 
-.galleryformatter-cleansimple .prev-slide {
+.galleryformatter-finishes .prev-slide {
   background-position: top left;
 }
-.galleryformatter-cleansimple .next-slide {
+.galleryformatter-finishes .next-slide {
   background-position: top right;
 }
-.galleryformatter-cleansimple .slide-button:hover {
+.galleryformatter-finishes .slide-button:hover {
     filter: alpha(opacity=100);
   -ms-filter: ”alpha(opacity=100)”;
   -moz-opacity: 1;
