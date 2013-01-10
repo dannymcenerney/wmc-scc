@@ -1,10 +1,8 @@
 .galleryformatter-cleansimple { 
-  padding-top: 40px;
-  background: url(images/gallery-title.png) no-repeat;
-  clear: both;
+  padding-top: 10px;
 }
 
-.galleryformatter-cleansimple .gallery-thumbs { padding: 0 25px; }
+.galleryformatter-cleansimple .gallery-thumbs {display: none;}
 .galleryformatter-cleansimple .gallery-slides { }
 .galleryformatter-cleansimple .gallery-slide { }
 
