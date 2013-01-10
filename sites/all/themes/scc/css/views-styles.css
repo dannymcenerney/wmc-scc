@@ -169,7 +169,7 @@
 
 /* FEATURED PROJECTS = Sidebar */ 
 
-.region-sidebar-second .view-featured-projects .views-row {
+#block-views-featured-projects-sidebar-list .views-row {
   border-top: 1px solid #CCCCCC;
   clear: both;
   overflow: hidden;
@@ -177,11 +177,11 @@
   padding-right: 20px;
 } 
 
-.region-sidebar-second .view-featured-projects .views-row-first {
+#block-views-featured-projects-sidebar-list .views-row-first {
   margin-top: 12px;
 }
 
-.region-sidebar-second .view-featured-projects .field-name-field-featured-image {
+#block-views-featured-projects-sidebar-list .field-name-field-featured-image {
   border-width: 0px 1px 1px 1px;
   border-color: #CCCCCC;
   border-style: solid;
@@ -192,8 +192,22 @@
   margin-right: 8px;
 }
 
-.region-sidebar-second .view-featured-projects .views-field-title {
+#block-views-featured-projects-sidebar-list .views-field-title {
   margin: 4px 0 0 0;
   line-height: 15px;
 }
 
+/* FEATURED PROJECTS = Page/List Display */ 
+
+#block-views-featured-projects-page-list .views-row {
+
+}
+
+#block-views-featured-projects-page-list .field-name-field-featured-image {
+  border: 1px solid #CCCCCC;
+  width: 163px;
+  height: 112px;
+  line-height: 0;
+  float: left;
+  margin-right: 8px;
+}

@@ -1,6 +1,4 @@
 .galleryformatter-projects { 
-  padding-top: 40px;
-  background: url(images/gallery-title.png) no-repeat;
   clear: both;
 }
 
@@ -10,7 +8,9 @@
 .galleryformatter-projects .gallery-slides {
   height: 395px;
  }
-.galleryformatter-projects .gallery-slide { }
+.galleryformatter-projects .gallery-slide {
+  border: 1px solid #CCC; 
+}
 
 .galleryformatter-projects .gallery-thumbs .arrow,
 .galleryformatter-projects .gallery-thumbs .wrapper,
