@@ -238,8 +238,56 @@ body .gallery-thumbs {
 
 body .slide-button {
   display: block;
-  height: 30px;
-  width: 10px;
+  padding: 20px 8px;
   color: #FFF;
+  font-weight: bold;
   background: #000;
 }
+
+/*LIGHTBOX2 MODULE OVERIDES*/
+
+body #imageData {  
+  font-size: 1.4em;
+}
+
+body #imageData #caption {
+  font-weight: normal;
+}
+
+body #imageData #numberDisplay {
+  margin-top: 10px;
+  font-size: .9em;
+}
+
+body #prevLink:hover, 
+body #prevLink:visited:hover, 
+body #prevLink.force_show_nav, 
+body #framePrevLink {
+  background: url(../images/lightbox-prev.png) left 40% no-repeat;
+}
+
+body #nextLink:hover, 
+body #nextLink:visited:hover, 
+body #nextLink.force_show_nav, 
+body #frameNextLink {
+  background: url(../images/lightbox-next.png) right 40% no-repeat;
+}
+
+
+body #bottomNavZoom {
+  display: block;
+  width: 24px;
+  height: 24px;
+  background: url(../images/lightbox-zoom.png) no-repeat;
+}
+
+body #bottomNavZoomOut {
+  width: 24px;
+  height: 24px;
+  background: url(../images/lightbox-zoomout.png) no-repeat;
+}
+
+/*
+body #bottomNavClose {
+  background: url(../images/lightbox-close.png) no-repeat;
+}*/

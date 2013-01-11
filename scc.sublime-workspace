@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"borde",
+				"border-left"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"H",
+				"H1	Tag"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/navigation.css",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/nice_menus_custom.css",
+		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/themes/mainsitetheme/mainsitetheme.info",
+		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/a_PC Website Content/Homepage Second Sidebar/Second Sidebar Feature/second-sidebar-schedule info",
+		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/themes/mainsitetheme/css/navigation.css",
+		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/a_PC Website Content/Page Content/Cultural Events/Magic of Cinema/moc.html",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/normalize.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/pages.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/nodes.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/modules/galleryformatter/gallerystyles/scc/scc.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/modules/galleryformatter/gallerystyles/finishes/finishes.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/modules/galleryformatter/gallerystyles/cleansimple/cleansimple.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/modules/galleryformatter/gallerystyles/projects/projects.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/views-styles.css",
+		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/z_Scratch/navigation bu",
+		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/themes/mainsitetheme/css/blocks.css",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/mainsitetheme.info",
+		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/z_Scratch/nice menus",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/blocks.css",
+		"/C/Users/wmc-pc/Sites/pencol/sites/example.sites.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/page.tpl.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/all/modules/nice_menus/nice_menus.css",
+		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/themes/mainsitetheme/css/nice_menus_custom.css",
+		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/settings.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/default.settings.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/modules/views/includes/plugins.inc",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/pages.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/templates/node-project.tpl.php",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/templates/project-page.tpl.php",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/layouts/fixed-width.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/blocks.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/templates/page.tpl.php",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/page-backgrounds.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/fields.css",
+		"/C/Users/wmc-pc/Sites/pencol/assets/happy-holidays-2012.html",
+		"/C/Users/wmc-pc/Sites/pencol/assets/happy-holidays-2012",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/page--html_page.tpl.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/node--html_page.tpl.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/page-html_page.tpl.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/node-html_page.tpl.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/README.txt",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/views-styles.css",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/node-generic_page.tpl.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/nodes.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#384038",
+			"greenarrows",
+			"cleansimple",
+			"Sometimes you want to prevent overlapping with main div. ",
+			"#eeeeee",
+			"eeeeee",
+			"domain access",
+			"ul.links",
+			"cleansimple",
+			".content-wrap-inner",
+			"ul",
+			"700",
+			"greenarrows",
+			"  greenarrows",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"scc",
+			"finishes",
+			"projects",
+			"cleansimple"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true
+}
