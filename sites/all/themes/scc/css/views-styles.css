@@ -211,3 +211,44 @@
   float: left;
   margin-right: 8px;
 }
+
+/* FEATURED PROJECTS = Homepage Block */ 
+
+.region-home-bottom-middle .view-featured-projects {
+  padding: 11px;
+}
+
+.region-home-bottom-middle .view-featured-projects .views-row {
+  clear: both;
+  height: 55px;
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+
+.region-home-bottom-middle .view-featured-projects .views-field-title {
+  margin-left: 78px;
+}
+
+.region-home-bottom-middle .view-featured-projects .views-field-title a {
+  color: #FFF;
+}
+
+.region-home-bottom-middle .view-featured-projects .field-name-field-featured-image {
+  float: left;
+}
+
+.region-home-bottom-middle .view-featured-projects .view-footer {
+  clear: both;
+}
+
+.region-home-bottom-middle .view-featured-projects .view-footer a {
+  color: #FFF;
+  text-decoration: underline;
+  font-size: .85em;
+}
+
+.region-home-bottom-middle .view-featured-projects a:hover {
+  color: #D2E1F0;
+}
+
+
