@@ -215,11 +215,10 @@
 /* FEATURED PROJECTS = Homepage Block */ 
 
 .region-home-bottom-middle .view-featured-projects {
-  padding: 11px;
+  padding: 11px 11px 0 11px;
 }
 
 .region-home-bottom-middle .view-featured-projects .views-row {
-  clear: both;
   height: 55px;
   margin-bottom: 12px;
   overflow: hidden;
@@ -237,8 +236,9 @@
   float: left;
 }
 
-.region-home-bottom-middle .view-featured-projects .view-footer {
-  clear: both;
+.region-home-bottom-middle .view-featured-projects .view-footer p {
+  margin: 0px;
+  padding: 0px;
 }
 
 .region-home-bottom-middle .view-featured-projects .view-footer a {
