@@ -313,8 +313,8 @@ h6 {
 
 /* Thematic break */
 hr {
-  height: 1px;
-  border: 1px solid #666;
+  height: 0px;
+  border: 1px solid #C3C3C3;
   padding-bottom: -1px;
   margin: 1.5em 0;
 }
