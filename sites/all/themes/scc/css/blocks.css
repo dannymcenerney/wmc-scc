@@ -123,6 +123,11 @@ h2.block-title { /* Block title */
 
 /*RIGHT SECOND SIDEBAR COLUMN*/
 
+/*Home Intro to SS */
+#boxes-box-homepage_about_ss p {
+	line-height: 14px;
+}
+
 /*Interior contact block*/
 .interior-contact-block h1 {
 	font-weight: normal;
