@@ -58,20 +58,23 @@
 
 /*HOMEPAGE SLIDESHOW*/
 
+
+
 #banners #block-views-homepage-slideshow-block .views-slideshow-controls-bottom {
-	position: relative;
-	top: -35px;
+	position: absolute;
+  display: block;
+	bottom: 20px;
 	right: 15px;
   z-index:  20;
 }
 
-#banners #block-views-homepage-slideshow-block .views-slideshow-controls-bottom .views-content-field-slideshow-image {
-  float: right;
+#banners #block-views-homepage-slideshow-block .views-slideshow-pager-field-item {
   margin-right: 4px;
   width: 10px;
   height: 13px;
   border: 1px solid #FFF;
   background: url(../images/transparent-bg-white-20.png);
+  float: left;
 }
 
 #banners #block-views-homepage-slideshow-block .views-slideshow-controls-bottom .views-content-field-slideshow-image img {
