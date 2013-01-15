@@ -58,14 +58,14 @@
 
 /*HOMEPAGE SLIDESHOW*/
 
-#banners #block-views-slideshow-block .views-slideshow-controls-bottom {
+#banners #block-views-homepage-slideshow-block .views-slideshow-controls-bottom {
 	position: relative;
 	top: -35px;
 	right: 15px;
   z-index:  20;
 }
 
-#banners #block-views-slideshow-block .views-slideshow-controls-bottom .views-content-field-image {
+#banners #block-views-homepage-slideshow-block .views-slideshow-controls-bottom .views-content-field-slideshow-image {
   float: right;
   margin-right: 4px;
   width: 10px;
@@ -74,7 +74,7 @@
   background: url(../images/transparent-bg-white-20.png);
 }
 
-#banners #block-views-slideshow-block .views-slideshow-controls-bottom .views-content-field-image img {
+#banners #block-views-homepage-slideshow-block .views-slideshow-controls-bottom .views-content-field-slideshow-image img {
 	display: none;
 }
 
