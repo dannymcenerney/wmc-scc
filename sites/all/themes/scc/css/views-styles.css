@@ -58,7 +58,9 @@
 
 /*HOMEPAGE SLIDESHOW*/
 
-
+.view-homepage-slideshow {
+  margin-bottom: 15px;
+}
 
 #banners #block-views-homepage-slideshow-block .views-slideshow-controls-bottom {
 	position: absolute;
