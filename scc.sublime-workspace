@@ -4,16 +4,32 @@
 		"selected_items":
 		[
 			[
-				"text",
-				"text-align"
+				"mar",
+				"margin-bottom"
 			],
 			[
-				"marg",
-				"margin"
+				"in",
+				"inline"
 			],
 			[
 				"list",
-				"list-style"
+				"list-style-image"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"views",
+				"views-row"
+			],
+			[
+				"marg",
+				"margin-top"
 			],
 			[
 				"padd",
@@ -24,16 +40,8 @@
 				"margin-top"
 			],
 			[
-				"mar",
-				"margin-top"
-			],
-			[
 				"font",
 				"font-size"
-			],
-			[
-				"p",
-				"padding-left"
 			],
 			[
 				"pad",
@@ -87,6 +95,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "sites/all/themes/scc/css/views-styles.css",
+			"settings":
+			{
+				"buffer_size": 5140,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -112,20 +128,21 @@
 	},
 	"file_history":
 	[
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/nodes.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/blocks.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/normalize.css",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/views-styles.css",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/navigation.css",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/nice_menus_custom.css",
 		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/themes/mainsitetheme/mainsitetheme.info",
 		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/a_PC Website Content/Homepage Second Sidebar/Second Sidebar Feature/second-sidebar-schedule info",
 		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/themes/mainsitetheme/css/navigation.css",
 		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/a_PC Website Content/Page Content/Cultural Events/Magic of Cinema/moc.html",
-		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/normalize.css",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/pages.css",
-		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/nodes.css",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/modules/galleryformatter/gallerystyles/scc/scc.css",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/modules/galleryformatter/gallerystyles/finishes/finishes.css",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/modules/galleryformatter/gallerystyles/cleansimple/cleansimple.css",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/modules/galleryformatter/gallerystyles/projects/projects.css",
-		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/views-styles.css",
 		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/z_Scratch/navigation bu",
 		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/themes/mainsitetheme/css/blocks.css",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/mainsitetheme.info",
@@ -142,7 +159,6 @@
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/templates/node-project.tpl.php",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/templates/project-page.tpl.php",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/layouts/fixed-width.css",
-		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/blocks.css",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/templates/page.tpl.php",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/page-backgrounds.css",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/fields.css",
@@ -173,6 +189,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pager",
+			"pager_field_",
+			"pager_field_item_bottom",
+			"boxes-box-homepage_about_ss",
+			"hr",
 			"#384038",
 			"greenarrows",
 			"cleansimple",
@@ -211,6 +232,34 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "sites/all/themes/scc/css/views-styles.css",
+					"settings":
+					{
+						"buffer_size": 5140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1365,
+								1365
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 954.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -270,6 +319,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 215.0,
+	"side_bar_width": 205.0,
 	"status_bar_visible": true
 }
