@@ -65,7 +65,7 @@
 #banners #block-views-homepage-slideshow-block .views-slideshow-controls-bottom {
 	position: absolute;
   display: block;
-	bottom: 20px;
+	top: 335px;
 	right: 15px;
   z-index:  20;
 }
