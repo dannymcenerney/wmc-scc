@@ -96,10 +96,10 @@
 	"buffers":
 	[
 		{
-			"file": "sites/all/themes/scc/css/views-styles.css",
+			"file": "/C/Users/wmc-pc/Sites/pencol/sites/default/settings.php",
 			"settings":
 			{
-				"buffer_size": 5140,
+				"buffer_size": 21134,
 				"line_ending": "Windows"
 			}
 		}
@@ -128,10 +128,23 @@
 	},
 	"file_history":
 	[
+		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/settings.php",
+		"/C/Users/wmc-pc/Desktop/settings.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/node--proftech_program.tpl.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/page.tpl.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/template.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/template.php~",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/node-proftech_program.tpl.php",
+		"/C/Users/wmc-pc/Sites/acquia-drupal/sites/all/themes/superdev/css/layout-fixed.css",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/wmc-pc/Sites/acquia-drupal/sites/all/themes/superdev/superdev.info",
+		"/C/Users/wmc-pc/Sites/acquia-drupal/sites/all/themes/superdev/theme-settings.php",
+		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/views-styles.css",
+		"/C/Users/wmc-pc/Sites/acquia-drupal/sites/all/themes/superdev/template.php",
+		"/C/Users/wmc-pc/Sites/wmc-scc/robots.txt",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/nodes.css",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/blocks.css",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/normalize.css",
-		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/views-styles.css",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/navigation.css",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/nice_menus_custom.css",
 		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/themes/mainsitetheme/mainsitetheme.info",
@@ -149,10 +162,8 @@
 		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/z_Scratch/nice menus",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/blocks.css",
 		"/C/Users/wmc-pc/Sites/pencol/sites/example.sites.php",
-		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/page.tpl.php",
 		"/C/Users/wmc-pc/Sites/pencol/sites/all/modules/nice_menus/nice_menus.css",
 		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/themes/mainsitetheme/css/nice_menus_custom.css",
-		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/settings.php",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/default.settings.php",
 		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/modules/views/includes/plugins.inc",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/pages.css",
@@ -189,6 +200,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ini_set",
+			"ini_set('memory_limit', ",
+			"ini_set('memory_limit', '');",
+			"ini_set('memory_limit', '16M');",
+			"memory_limit",
+			"memory_limi",
+			"STARTERKIT",
+			"starterkit",
 			"pager",
 			"pager_field_",
 			"pager_field_item_bottom",
@@ -216,6 +235,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"superdev",
 			"scc",
 			"finishes",
 			"projects",
@@ -230,32 +250,31 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "sites/all/themes/scc/css/views-styles.css",
+					"file": "/C/Users/wmc-pc/Sites/pencol/sites/default/settings.php",
 					"settings":
 					{
-						"buffer_size": 5140,
+						"buffer_size": 21134,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1365,
-								1365
+								21134,
+								21134
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 954.0,
+						"translation.y": 8792.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -319,6 +338,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 205.0,
+	"side_bar_width": 255.0,
 	"status_bar_visible": true
 }
