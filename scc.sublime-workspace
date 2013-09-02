@@ -4,16 +4,36 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-bottom"
+			],
+			[
 				"mar",
-				"margin-bottom"
+				"margin"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
 			],
 			[
 				"in",
 				"inline"
-			],
-			[
-				"list",
-				"list-style-image"
 			],
 			[
 				"p",
@@ -32,10 +52,6 @@
 				"margin-top"
 			],
 			[
-				"padd",
-				"padding"
-			],
-			[
 				"margi",
 				"margin-top"
 			],
@@ -44,23 +60,11 @@
 				"font-size"
 			],
 			[
-				"pad",
-				"padding"
-			],
-			[
 				"b",
 				"background"
 			],
 			[
-				"pa",
-				"padding-bottom"
-			],
-			[
 				"border",
-				"border-left"
-			],
-			[
-				"borde",
 				"border-left"
 			],
 			[
@@ -95,14 +99,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/wmc-pc/Sites/pencol/sites/default/settings.php",
-			"settings":
-			{
-				"buffer_size": 21134,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -128,11 +124,33 @@
 	},
 	"file_history":
 	[
+		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/Server and Drupal Docs/Local/php.ini",
+		"/C/Users/wmc-pc/Sites/pencol/includes/common.inc",
+		"/C/Users/wmc-pc/Desktop/pencol-BU/includes/common.inc",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/nodes.css",
+		"/C/Users/wmc-pc/Sites/pencol/.gitignore",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/pages.css",
+		"/C/Users/wmc-pc/Sites/pencol/.htaccess",
+		"/C/Users/wmc-pc/Sites/pencol/index.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/template.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/all/modules/token/token.module",
+		"/C/Users/wmc-pc/Sites/pencol/sites/all/modules/references/node_reference/node_reference.module",
+		"/C/Users/wmc-pc/Sites/pencol/crontest.php",
+		"/C/Users/wmc-pc/Sites/pencol/includes/module.inc",
+		"/C/Users/wmc-pc/Sites/pencol/php.ini",
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/settings.php",
+		"/C/Users/wmc-pc/Desktop/pencol-BU/.htaccess",
+		"/C/Users/wmc-pc/Downloads/drupal-7.20/drupal-7.20/sites/default/default.settings.php",
+		"/C/Users/wmc-pc/Downloads/drupal-7.20/drupal-7.20/.gitignore",
+		"/C/Users/wmc-pc/Sites/pencol/sites/pc.localhost/settings.php",
+		"/C/Users/wmc-pc/Sites/pencol/sites/pc.localhost/modules/views/includes/plugins.inc",
+		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/a_PC Website Content/Page Content/Proftech/Custom HTML/alternative-fuels",
+		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/a_PC Website Content/Page Content/Proftech/Custom HTML/automotive-technician",
+		"/C/Users/wmc-pc/SkyDrive/a_Pencol Cloud/a_PC Website Content/Page Content/Proftech/Custom HTML/composites",
 		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/settings.php",
 		"/C/Users/wmc-pc/Desktop/settings.php",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/node--proftech_program.tpl.php",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/page.tpl.php",
-		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/template.php",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/template.php~",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/node-proftech_program.tpl.php",
 		"/C/Users/wmc-pc/Sites/acquia-drupal/sites/all/themes/superdev/css/layout-fixed.css",
@@ -166,7 +184,6 @@
 		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/themes/mainsitetheme/css/nice_menus_custom.css",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/default.settings.php",
 		"/C/Users/wmc-pc/Sites/pencol/sites/pencol.localhost/modules/views/includes/plugins.inc",
-		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/pages.css",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/templates/node-project.tpl.php",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/templates/project-page.tpl.php",
 		"/C/Users/wmc-pc/Sites/wmc-scc/sites/all/themes/scc/css/layouts/fixed-width.css",
@@ -181,8 +198,7 @@
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/node-html_page.tpl.php",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/README.txt",
 		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/views-styles.css",
-		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/node-generic_page.tpl.php",
-		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/css/nodes.css"
+		"/C/Users/wmc-pc/Sites/pencol/sites/default/themes/mainsitetheme/templates/node-generic_page.tpl.php"
 	],
 	"find":
 	{
@@ -200,6 +216,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" <IfModule mod_expires.c>",
+			"<filesMatch \"\\.(html|htm|js|css)$\">",
+			"cache",
+			"module_invoke_all",
+			"find sites/all/modules/",
+			"$conf['file_temporary_path'] ",
+			"$conf['file_temporary_path'] = '/home1/develop9/public_html/domainname/new/tempdir';",
+			"danny",
+			"php_value memory_limit ",
+			"ini_set",
+			"ini_set('memory",
+			"ini_set('memory_limit'",
+			"multi-site",
 			"ini_set",
 			"ini_set('memory_limit', ",
 			"ini_set('memory_limit', '');",
@@ -250,35 +279,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/wmc-pc/Sites/pencol/sites/default/settings.php",
-					"settings":
-					{
-						"buffer_size": 21134,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								21134,
-								21134
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 8792.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -338,6 +340,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 255.0,
+	"side_bar_width": 254.0,
 	"status_bar_visible": true
 }
